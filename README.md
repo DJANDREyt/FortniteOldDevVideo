@@ -5,3 +5,6 @@ original link: https://www.youtube.com/watch?v=3NK97psTA8g&list=PLZlv_N0_O1gbggH
 web archive link: https://web.archive.org/web/20210719003915/https://www.youtube.com/watch?v=3NK97psTA8g
 
 PS: The video is like 144p
+
+# Direct Download
+.mp4 file download link: https://mega.nz/file/TPAQTLYI#rrSaNe-jNGrrHbO7PVUkapezAPgMUc52_DAs75hO3Ik (mega)
