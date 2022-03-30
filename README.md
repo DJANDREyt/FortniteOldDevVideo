@@ -1,8 +1,5 @@
 <p align="center">
-<img src="https://img.shields.io/github/languages/DJANDREyt/FortniteOldDevVideo?style=flat-square" </a>
 <img src="https://img.shields.io/github/last-commit/DJANDREyt/FortniteOldDevVideo?style=flat-square" </a>
-<img src="https://img.shields.io/github/license/DJANDREyt/FortniteOldDevVideo?style=flat-square" </a>
-<img src="https://img.shields.io/github/downloads/DJANDREyt/FortniteOldDevVideo/total?color=%23daff00&label=1.4.6 Downloads&style=flat-square" </a>
 <img src="https://img.shields.io/github/stars/DJANDREyt/FortniteOldDevVideo?color=%23daff00&label=Stars&style=flat-square" </a>
 <img src="https://img.shields.io/github/forks/DJANDREyt/FortniteOldDevVideo?color=%23daff00&label=Forks&style=flat-square" </a>
 
